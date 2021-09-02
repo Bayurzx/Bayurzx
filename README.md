@@ -3,6 +3,8 @@
 ## 👨‍🔧 **About Me** 👨‍🔧
 A Full-Stack Developer that acquired some skills such as; Microsoft Office (PMO), Software Development, Cloud Ops, Project Management, Engineering Design and Analysis during a series of competitive programming, scholarships and internships. Basically a guy that fell in love with tech. 
 
+<br/>
+<br/>
 
 ## 🍔 Tech Stacks 🍔
 
@@ -30,10 +32,14 @@ A Full-Stack Developer that acquired some skills such as; Microsoft Office (PMO)
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/597bebe80fb0066a1a125416dce1d933cbfd0856/topics/azure/azure.png" />
 
 <br /> 
+<br/>
+<br/>
 
 ## 🎡 Github Stats 🎡
 [![github stats](https://github-readme-stats.vercel.app/api?username=bayurzx&show_icons=true&theme=material-palenight)](https://github.com/bayurzx/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayurzx&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/bayurzx/github-readme-stats)
 
+<br/>
+<br/>
 
 ### Let's meet me on:
 [<img src="https://img.shields.io/badge/LinkedIn-Adebayo%20Omolumo-blue" />](https://www.linkedin.com/in/adebayo-omolumo-2b1ba078//)
