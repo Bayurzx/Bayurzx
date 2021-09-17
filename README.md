@@ -1,8 +1,9 @@
 # Welcome ✨✨, I am Adebayo `aka` bayurzx
 
 ## 👨‍🔧 **About Me** 👨‍🔧
-A Full-Stack Developer *with a very particular set of skills* 😆 such as Software Development, Cloud Ops, Project Management, Engineering Design, Analysis etc. Skills I have acquired over a series of competitive programming, scholarships and internships. *Skills that make me a nightmare for* troublesome code😆.
-Basically a guy that fell in love with tech🤖. 
+### A Full-Stack Developer *with a very particular set of skills* 😆 such as Software Development, Cloud Ops, Project Management, Engineering Design, Analysis etc. Skills I have acquired over a series of competitive programming, scholarships and internships. *Skills that make me a nightmare for* troublesome code😆.
+<br/>
+### Basically a guy that fell in love with tech🤖. 
 
 <br/>
 <br/>
