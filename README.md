@@ -24,8 +24,6 @@
 
 <br/>
 <br/>
-
-<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/597bebe80fb0066a1a125416dce1d933cbfd0856/topics/google-cloud/google-cloud.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/597bebe80fb0066a1a125416dce1d933cbfd0856/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -40,7 +38,7 @@
 <br/>
 
 ## 🎡 Github Stats 🎡
-[![github stats](https://github-readme-stats.vercel.app/api?username=bayurzx&show_icons=true&theme=material-palenight)](https://github.com/bayurzx/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayurzx&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/bayurzx/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=bayurzx&show_icons=true&theme=material-palenight)](https://github.com/bayurzx/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayurzx&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/bayurzx/)
 
 <br/>
 <br/>
