@@ -44,4 +44,4 @@
 <br/>
 
 ### Let's meet me on:
-[<img src="https://img.shields.io/badge/LinkedIn-Adebayo%20Omolumo-blue" />](https://www.linkedin.com/in/adebayo-omolumo-2b1ba078//)
+[<img src="https://img.shields.io/badge/LinkedIn-Adebayo%20Omolumo-blue" />](https://www.linkedin.com/in/adebayo-omolumo/)
