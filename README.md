@@ -1,7 +1,7 @@
 # Welcome ✨✨, I am Adebayo `aka` bayurzx
 
 ## 👨‍🔧 **About Me** 👨‍🔧
-A Full-Stack Developer that acquired some skills such as; Microsoft Office (PMO), Software Development, Cloud Ops, Project Management, Engineering Design and Analysis during a series of competitive programming, scholarships and internships. Basically a guy that fell in love with tech. 
+As a Senior Cloud Engineer with expertise in AWS, Azure, and GCP, I excel in designing, implementing, and managing cloud-based infrastructure. My experience includes successful deployments of CI/CD, Git, Jenkins, Ansible, Terraform, and Kubernetes, while my scripting skills in Python, Bash, and PowerShell streamline workflows for enhanced efficiency. Collaborating effectively with cross-functional teams, I lead projects and leverage strong communication and interpersonal skills to ensure project success. 
 
 <br/>
 <br/>
