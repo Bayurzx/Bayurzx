@@ -6,6 +6,7 @@ As a Senior Cloud Engineer with expertise in AWS, Azure, and GCP, I excel in des
 <br/>
 <br/>
 
+---
 ## 🍔 Tech Stacks 🍔
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
@@ -88,12 +89,14 @@ As a Senior Cloud Engineer with expertise in AWS, Azure, and GCP, I excel in des
 <br/>
 <br/>
 
+---
 ## 🎡 Github Stats 🎡
 [![github stats](https://github-readme-stats.vercel.app/api?username=bayurzx&show_icons=true&theme=material-palenight)](https://github.com/bayurzx/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayurzx&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/bayurzx/)
 
 <br/>
 <br/>
 
+---
 ## 🎉 Accomplishments 🎉
 - 🚀 Celo's Make Crypto Mobile Hackathon - [WINNER 1st Place | Infrastructure and Web3 Track](https://devpost.com/software/save-earth-with-celo)
 - 🚀 Azure AI Hackathon - [WINNER First 50 eligible submissions](https://devpost.com/software/save-earth-with-ai)
@@ -103,6 +106,7 @@ As a Senior Cloud Engineer with expertise in AWS, Azure, and GCP, I excel in des
 <br/>
 <br/>
 
+---
 ### Let's meet me on:
 [<img src="https://img.shields.io/badge/LinkedIn-Adebayo%20Omolumo-blue" />](https://www.linkedin.com/in/adebayo-omolumo/) 
 [<img src="https://img.shields.io/badge/Twitter-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=twitter" />](https://twitter.com/AdebayoOmolumo) 
