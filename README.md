@@ -94,5 +94,16 @@ As a Senior Cloud Engineer with expertise in AWS, Azure, and GCP, I excel in des
 <br/>
 <br/>
 
+## 🎉 Accomplishments 🎉
+- 🚀 Celo's Make Crypto Mobile Hackathon - [WINNER 1st Place | Infrastructure and Web3 Track](https://devpost.com/software/save-earth-with-celo)
+- 🚀 Azure AI Hackathon - [WINNER First 50 eligible submissions](https://devpost.com/software/save-earth-with-ai)
+- 🚀 Chainlink Spring 2023 Hackathon - [WINNER AWS - Total of $200k in AWS credits for best 20 projects leveraging AWS services and data](https://devpost.com/software/onlinesafetygame)
+- 🚀 Datastax Holiday Hackathon - [Top 10 Finalists(4th) and EMEA Category Winner](https://youtu.be/y97EQEp2e_0?t=2080)
+
+<br/>
+<br/>
+
 ### Let's meet me on:
-[<img src="https://img.shields.io/badge/LinkedIn-Adebayo%20Omolumo-blue" />](https://www.linkedin.com/in/adebayo-omolumo/)
+[<img src="https://img.shields.io/badge/LinkedIn-Adebayo%20Omolumo-blue" />](https://www.linkedin.com/in/adebayo-omolumo/) 
+[<img src="https://img.shields.io/badge/Twitter-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=twitter" />](https://twitter.com/AdebayoOmolumo) 
+
