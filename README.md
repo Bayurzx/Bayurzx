@@ -203,7 +203,7 @@ Deployed Scikit-learn model as containerized microservice with Kubernetes orches
 - 🐦 [Twitter/X](https://twitter.com/AdebayoOmolumo)
 - 🌐 [Portfolio](https://visit.adebayoomolumo.website)
 - 📧 [Email](mailto:adebayoomolumo@gmail.com)
-- 📺 [YouTube](https://youtube.com/@bayurzx) - Cloud tutorials & DevOps tips
+- 📺 [YouTube](https://youtube.com/@adebayoomolumo) - Cloud tutorials & DevOps tips
 
 ---
 
