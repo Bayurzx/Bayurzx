@@ -23,6 +23,54 @@ I specialize in designing and implementing production-grade cloud infrastructure
 
 ## 🚀 Featured Projects
 
+### [Customer Personalization Orchestrator](https://github.com/Bayurzx/Customer-Personalization-Orchestrator)
+**AI-Powered Marketing Personalization System** 🏆 **Competition Submission**  
+An AI-powered agent system that enables marketing teams to deliver compliant, on-brand personalized outbound messages at scale while maintaining safety standards and providing comprehensive measurement capabilities.
+
+**Tech Stack:** `Azure AI` `Python` `Azure OpenAI` `Azure Content Safety` `A/B Testing`
+
+**Key Features:**
+- 5-agent architecture for end-to-end personalization
+- Citation-grounded generation to eliminate brand risks
+- Fail-closed safety screening for enterprise compliance
+- Built-in experimentation with statistical analysis
+- **Results:** 38.7% open rate vs 30.6% control baseline, 280 customers/minute processing
+
+**Links:** [📹 Demo Video](https://github.com/Bayurzx/Customer-Personalization-Orchestrator) • [📊 Live Presentation](https://github.com/Bayurzx/Customer-Personalization-Orchestrator)
+
+---
+
+### [Credit AI](https://github.com/Bayurzx/credit_ai)
+**Agentic Postgres Credit Decisioning System**  
+Transforms PostgreSQL into an active financial reasoning engine using TimescaleDB and specialized database "agents" that collaborate to understand financial behavior patterns over time.
+
+**Tech Stack:** `PostgreSQL` `TimescaleDB` `FastAPI` `Python` `TigerData`
+
+**Key Innovation:**
+- Multi-agent database architecture (Feature, Rule, Pattern, Trend agents)
+- Time-series behavioral understanding vs point-in-time snapshots
+- Dynamic rules that adapt to applicant type
+- Fully explainable decisions with reason codes
+
+**Achievement:** TigerData Challenge 2025 Submission
+
+---
+
+### [Air-Gapped Kubernetes on AWS](https://github.com/Bayurzx/uba-k8s)
+**Production-Grade Air-Gapped Kubernetes Simulation**  
+Highly-available Kubernetes cluster that simulates air-gapped, on-premise data center environments using AWS infrastructure, enforcing strict access patterns and security constraints.
+
+**Tech Stack:** `Kubernetes` `AWS` `Terraform` `Ansible` `Longhorn` `kube-vip`
+
+**Architecture Highlights:**
+- Bastion-only access with all nodes in private subnet
+- No public IPs on cluster nodes
+- 3-master HA design with virtual IP
+- Controlled egress via NAT Gateway (can be disabled)
+- Distributed storage with Longhorn
+
+---
+
 ### [DockerHelper](https://github.com/Bayurzx/dockerhelper) 
 **AI-Powered Docker Configuration Generator**  
 FastAPI + LLMs to automatically generate optimized Dockerfiles and docker-compose configs from Git repositories. Features OAuth authentication and Retrieval-Augmented Generation for continuous learning.
